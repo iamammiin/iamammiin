@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Introduction
-- 🔭 I’m currently working on Custome CMS
-- 🌱 I’m currently learning  Go Programming Language
+- 🔭 I’m currently working on Custom CMS
+- 🌱 I’m currently learning Deep PHP and Go Programming Language
 - 🏋️ Workout everyday, mountaineer, mountain biker!
 
 
