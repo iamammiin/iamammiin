@@ -27,6 +27,7 @@ class About extends Me
         return [
             Php::class,
             Laravel::class,
+            MySQL::class,
             Javascript::class,
             Redis::class,
             Elasticsearch::class,
